@@ -1,6 +1,7 @@
-# Developer Landing Page
+# A Web Page of Agency Minimal
 
-A responsive and modern developer landing page built with HTML, CSS, and JavaScript. Ideal for showcasing software services, features, and client testimonials.
+A responsive and modern developer landing page built with HTML, CSS, and JavaScript. Ideal for showcasing software services, features and client testimonials.
+It is an evaluation process task from SM Technology for the Web Developer position using HTML,CSS,JS or preferred framework (CMS) focusing on pixel-perfect implementation ,responsive behavior, clean code structure and performance optimization. Here is the view of webpage in two mode. First one is Laptop View and another one is Mobile View.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9a714f2e-85e1-4568-83c9-d120ade88de5" alt="Desktop View" width="45%" height="370px" style="margin-right: 20px;"/>
@@ -56,12 +57,13 @@ project-folder/
 ```
 ## Getting Started
 
-1. git clone https://github.com/your-username/developer-landing-page.git
+1. Clone the Repository : git clone https://github.com/your-username/developer-landing-page.git
 cd developer-landing-page
-2. start index.html
+2. Open the File : Start index.html
 
 
 ## Screenshots
+Here is the view of different pages of this website in Laptop View.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3fc5f131-7d77-4cfc-9b8f-2eb519fb5281" alt="Section 1" width="80%" />
@@ -77,7 +79,7 @@ cd developer-landing-page
 
 
 ## Responsive View
-
+Here is the view of different pages of this website in Mobile View.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7483a4ee-614e-4e5d-8ab6-9abd5d26996e" alt="Mobile View 1" width="22%" style="margin: 10px;" />
   <img src="https://github.com/user-attachments/assets/7d6bcf96-a9cb-4990-99a7-fedd032d781d" alt="Mobile View 2" width="22%" style="margin: 10px;" />
@@ -90,6 +92,6 @@ cd developer-landing-page
 
 **Md. Sajidur Rahman**  
 Electrical and Computer Engineering, RUET  
-Passionate about embedded systems, web development, and machine learning.
+Passionate about embedded systems, web development and machine learning.
 
 ---
