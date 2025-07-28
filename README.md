@@ -3,7 +3,7 @@
 A responsive and modern developer landing page built with HTML, CSS, and JavaScript. Ideal for showcasing software services, features, and client testimonials.
 
 <img width="660" height="370" alt="image" src="https://github.com/user-attachments/assets/9a714f2e-85e1-4568-83c9-d120ade88de5" />
-<img width="170" height="370" alt="image" src="https://github.com/user-attachments/assets/9b7b46d2-07c8-47c8-a674-b24d2199e2ac" />
+<img width="170" height="372" alt="image" src="https://github.com/user-attachments/assets/9b7b46d2-07c8-47c8-a674-b24d2199e2ac" />
 
 ---
 
