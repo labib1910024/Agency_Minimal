@@ -1,7 +1,7 @@
 # A Web Page of Agency Minimal
 
 A responsive and modern developer landing page built with HTML, CSS, and JavaScript. Ideal for showcasing software services, features and client testimonials.
-It is an evaluation process task from SM Technology for the Web Developer position using HTML,CSS,JS or preferred framework (CMS) focusing on pixel-perfect implementation ,responsive behavior, clean code structure and performance optimization. This webpage is based on landing page. Customers can be benefitted through this website using the services as that they required. Here is the view of webpage in two mode. First one is Laptop View and another one is Mobile View.
+It is an evaluation process task from SM Technology for the Web Developer position using HTML,CSS,JS or preferred framework (CMS) focusing on pixel-perfect implementation ,responsive behavior, clean code structure and performance optimization. This webpage is based on landing page. Customers can be benefitted through this website using the services as that they required. Here is the view of webpage in two mode. First one is Laptop View and another one is Mobile View  of the "Home Page".
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9a714f2e-85e1-4568-83c9-d120ade88de5" alt="Desktop View" width="45%" height="370px" style="margin-right: 20px;"/>
