@@ -87,3 +87,9 @@ cd developer-landing-page
 
 
 ## Author
+
+**Md. Sajidur Rahman**  
+Electrical and Computer Engineering, RUET  
+Passionate about embedded systems, web development, and machine learning.
+
+---
