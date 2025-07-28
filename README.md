@@ -63,6 +63,19 @@ cd developer-landing-page
 
 ## Screenshots
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3fc5f131-7d77-4cfc-9b8f-2eb519fb5281" alt="Section 1" width="80%" />
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/a3ffdd0a-54c7-471c-b331-1aa5c5b3fb7d" alt="Section 2" width="80%" />
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/2a0695de-7417-4dae-8ad3-d9694bb819dd" alt="Section 3" width="80%" />
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/1ea6da6b-e9ff-4b4c-96bc-ff93b5842165" alt="Section 4" width="80%" />
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/bc4bc1a9-ca61-4501-bdb2-b8885ffa2d2c" alt="Responsive View" width="70%" />
+</div>
+
+
 ## Responsive View
 
 ## Author
