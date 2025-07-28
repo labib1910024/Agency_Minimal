@@ -58,7 +58,7 @@ project-folder/
 ## Getting Started
 
 1. Clone the Repository : git clone https://github.com/your-username/developer-landing-page.git
-cd developer-landing-page
+cd Agency_Minimal page.
 2. Open the File : Start index.html
 
 
