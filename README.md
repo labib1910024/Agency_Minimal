@@ -78,4 +78,12 @@ cd developer-landing-page
 
 ## Responsive View
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7483a4ee-614e-4e5d-8ab6-9abd5d26996e" alt="Mobile View 1" width="22%" style="margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/7d6bcf96-a9cb-4990-99a7-fedd032d781d" alt="Mobile View 2" width="22%" style="margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/74a2ac0c-3a41-4d9c-9d71-b2166b7ab28b" alt="Mobile View 3" width="22%" style="margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/00fd4ac0-9fbe-4867-9cd8-fcea8d70e57e" alt="Mobile View 4" width="22%" style="margin: 10px;" />
+</div>
+
+
 ## Author
