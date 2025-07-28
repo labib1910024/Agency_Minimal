@@ -2,22 +2,11 @@
 
 A responsive and modern developer landing page built with HTML, CSS, and JavaScript. Ideal for showcasing software services, features, and client testimonials.
 
-![Website Screenshot - Desktop](images/preview-desktop.png)
-![Website Screenshot - Mobile](images/preview-mobile.png)
+<img width="1275" height="724" alt="image" src="https://github.com/user-attachments/assets/9a714f2e-85e1-4568-83c9-d120ade88de5" />
+<img width="328" height="702" alt="image" src="https://github.com/user-attachments/assets/9b7b46d2-07c8-47c8-a674-b24d2199e2ac" />
 
 ---
 
-## Table of Contents
-
-- [Features](#-features)
-- [Technologies Used](#-technologies-used)
-- [Folder Structure](#-folder-structure)
-- [Getting Started](#-getting-started)
-- [Screenshots](#-screenshots)
-- [Responsive View](#-responsive-view)
-- [Author](#-author)
-
----
 
 ## Features
 
