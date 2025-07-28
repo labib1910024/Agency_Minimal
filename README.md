@@ -1,15 +1,12 @@
 # A Web Page of Agency Minimal
 
 A responsive and modern developer landing page built with HTML, CSS, and JavaScript. Ideal for showcasing software services, features and client testimonials.
-It is an evaluation process task from SM Technology for the Web Developer position using HTML,CSS,JS or preferred framework (CMS) focusing on pixel-perfect implementation ,responsive behavior, clean code structure and performance optimization. Here is the view of webpage in two mode. First one is Laptop View and another one is Mobile View.
+It is an evaluation process task from SM Technology for the Web Developer position using HTML,CSS,JS or preferred framework (CMS) focusing on pixel-perfect implementation ,responsive behavior, clean code structure and performance optimization. This webpage is based on landing page. Customers can be benefitted through this website using the services as that they required. Here is the view of webpage in two mode. First one is Laptop View and another one is Mobile View.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9a714f2e-85e1-4568-83c9-d120ade88de5" alt="Desktop View" width="45%" height="370px" style="margin-right: 20px;"/>
   <img src="https://github.com/user-attachments/assets/9b7b46d2-07c8-47c8-a674-b24d2199e2ac" alt="Mobile View" width="22%" height="370px" />
 </div>
-
-
----
 
 
 ## Features
@@ -18,7 +15,6 @@ It is an evaluation process task from SM Technology for the Web Developer positi
 - Mobile navigation with hamburger toggle
 - Styled with DM Sans and Playfair Display fonts
 
----
 
 ## Technologies Used
 
@@ -28,7 +24,6 @@ It is an evaluation process task from SM Technology for the Web Developer positi
 - **Google Fonts (DM Sans, Playfair Display)**
 - **Font Awesome**
 
----
 
 ## Folder Structure
 
@@ -53,8 +48,8 @@ project-folder/
 ├── style.css
 ├── script.js
 └── README.md
-
 ```
+
 ## Getting Started
 
 1. Clone the Repository : git clone https://github.com/your-username/developer-landing-page.git
