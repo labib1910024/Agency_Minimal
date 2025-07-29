@@ -681,7 +681,6 @@ header {
   text-decoration: underline;
 }
 
-
 @media (max-width: 768px) {
     .hamburger {
     display: block;
@@ -772,6 +771,42 @@ header {
     font-size: 14px;
   }
 
+  .features h2{
+    font-size: 22px;
+    line-height: 1.4;
+  }
+  
+  .promo-text h1 {
+    font-size: 22px;
+    line-height: 1.4;
+  }
+
+  .promo-text p{
+    font-size: 14px;
+  }
+
+  .trusted h2 {
+    font-size: 22px;
+    line-height: 1.4;
+  }
+
+  .trusted p{
+    font-size: 14px;
+  }
+
+  .support-text h2 {
+    font-size: 22px;
+    line-height: 1.4;
+  }
+
+  .support-text-p1{
+    font-size: 14px;
+  }
+
+  .support-text-p2{
+    font-size: 14px;
+  }
+
   .hero button,
   .subscribe-box button {
     font-size: 14px;
@@ -835,6 +870,19 @@ header {
 
   .subscribe-box {
     gap: 8px;
+  }
+}
+
+
+   
+ 
+  
+  
+  
+   
+
+  
+  
   }
 }
 
