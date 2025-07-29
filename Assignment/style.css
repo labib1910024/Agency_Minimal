@@ -756,3 +756,85 @@ header {
     font-size: 20px;
   }
 }
+
+@media (max-width: 480px) {
+  .container {
+    padding: 0 15px;
+  }
+
+  .hero h1 {
+    font-size: 22px;
+    line-height: 1.4;
+  }
+
+  .hero p,
+  .support-text p {
+    font-size: 14px;
+  }
+
+  .hero button,
+  .subscribe-box button {
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  .subscribe-box input {
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  .nav {
+    width: 220px;
+    padding: 50px 15px;
+  }
+
+  .close {
+    font-size: 20px;
+    right: 15px;
+  }
+
+  .nav_links,
+  .register-btn {
+    font-size: 14px;
+    padding: 8px 0;
+  }
+
+  .card h4 {
+    font-size: 16px;
+  }
+
+  .card p {
+    font-size: 13px;
+  }
+
+  .footer p {
+    font-size: 13px;
+  }
+
+  .footer-links {
+    font-size: 14px;
+    gap: 8px;
+    flex-direction: column;
+  }
+
+  .cta h2 {
+    font-size: 18px;
+  }
+
+  .testimonial-profiles,
+  .profiles,
+  .cards {
+    gap: 15px;
+  }
+
+  img,
+  video {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .subscribe-box {
+    gap: 8px;
+  }
+}
+
